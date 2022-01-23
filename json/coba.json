@@ -1,0 +1,30 @@
+[
+  {
+    "nama" : "Rudy Nurafif",
+    "umur" : 23,
+    "alamat" : "Jalan Margonda No. 123",
+    "programmer" : "true",
+    "hobby" : [
+      "coding",
+      "gaming"
+    ],
+    "mentor" : {
+      "mentor1" : "Mamang",
+      "mentor2" : "Sebastian"
+    }
+  },
+  {
+    "nama" : "Rudy Nurafif",
+    "umur" : 23,
+    "alamat" : "Jalan Margonda No. 123",
+    "programmer" : "true",
+    "hobby" : [
+      "coding",
+      "gaming"
+    ],
+    "mentor" : {
+      "mentor1" : "Mamang",
+      "mentor2" : "Sebastian"
+    }
+  }
+]
